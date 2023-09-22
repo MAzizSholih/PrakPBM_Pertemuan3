@@ -1,0 +1,91 @@
+1. Program pertama dengan kotlin
+
+codelab no 3
+
+/*
+fun main() {
+//Kode di bawah ini untuk mencetak teks
+    println("Hello, Kotlin")
+}
+
+codelab no 9
+
+fun main() {
+    //Kode di bawah ini untuk mencetak teks
+    println("---Linkin Park")
+    println("Chester Bennington")
+    println("Mike Shinoda")
+    println("Brad Delson")
+    println("Dave Farrell")
+    println("Rob Bourdon")
+}
+
+***
+
+2. Membuat dan menggunakan variabel di kotlin
+
+/*
+codelab no 3
+fun main() {
+// Kode di bawah merupakan variabel
+    val count: Int = 5
+
+//Kode di bawah ini untuk mencetak teks
+    println("You have $count unread messages.")
+}
+
+codelab no 4
+
+fun main() {
+    var cartTotal = 0
+    cartTotal = 18
+
+//Kode di bawah ini untuk mencetak teks
+    println("Total: $cartTotal")
+}
+
+codelab no 5
+
+fun main() {
+    //// Kode di bawah merupakan variabel string
+    val nextMeeting = "Next meeting is: "
+    val date = "Juni 18"
+    val reminder = nextMeeting + date
+    
+    //Kode di bawah ini untuk mencetak teks
+    println(reminder)
+}
+
+***
+
+3. Membuat dan menggunakan fungsi di kotlin
+
+/*
+codelab no 2
+fun main() {
+    //Fungsi Kode di bawah ini untuk mencetak teks
+    println("Happy Anniversary Linkin Park Album METEORA")
+    println("Now 20 years old")
+}
+
+codelab no 3
+
+fun main() {
+    anniversaryGreeting()
+}
+
+//Kode di bawah ini untuk menampilkan nilai dari fungsi
+fun anniversaryGreeting(): Unit {
+    println("Happy Anniversary Linkin Park Album METEORA")
+    println("Now 5 years old")
+}
+
+***
+
+4. Soal Latihan Dasar Kotlin
+
+/*
+codelab no 3
+fun main() {
+    println("New chat message from a friend'}
+}
